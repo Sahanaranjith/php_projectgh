@@ -1,6 +1,7 @@
 <?php
-$names=['james','elsy', 'jesly','sahana'];
+   $name = ['james','michel','jhon','hony'];
 ?>
+
 
 
 <!DOCTYPE html>
@@ -10,15 +11,6 @@ $names=['james','elsy', 'jesly','sahana'];
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        .some-names{
-            background-color: navy;
-            color: white;
-        }
-        .more-names{
-            background-color: gray;
-        }
-    </style>
 </head>
 <body class="">
     <h1>Names</h1>
@@ -33,8 +25,7 @@ $names=['james','elsy', 'jesly','sahana'];
 
 </body>
 </html>
-
- <?php
+<?php 
 
 
 
@@ -48,7 +39,7 @@ $names=['james','elsy', 'jesly','sahana'];
 //     $grade = "pass";
 // }
 
-// 
+// ?>
 // if(count($names)>3){
 //   more-names
 // }else{

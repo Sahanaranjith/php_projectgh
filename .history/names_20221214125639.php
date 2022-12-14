@@ -1,5 +1,5 @@
 <?php
-$names=['james','elsy', 'jesly','sahana'];
+$names=['james','elsy', 'jesly',];
 ?>
 
 
@@ -33,9 +33,7 @@ $names=['james','elsy', 'jesly','sahana'];
 
 </body>
 </html>
-
- <?php
-
+?>
 
 
 // $class = count($names)>3 ? "more-names": "some-names";
@@ -48,7 +46,7 @@ $names=['james','elsy', 'jesly','sahana'];
 //     $grade = "pass";
 // }
 
-// 
+// ?>
 // if(count($names)>3){
 //   more-names
 // }else{

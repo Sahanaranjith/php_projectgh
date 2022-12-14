@@ -33,24 +33,3 @@ $names=['james','elsy', 'jesly','sahana'];
 
 </body>
 </html>
-
- <?php
-
-
-
-// $class = count($names)>3 ? "more-names": "some-names";
-
-// $grade= $marks<40 ? "fail": "pass";
-
-// if($marks<40){
-//     $grade = "fail";
-// }else{
-//     $grade = "pass";
-// }
-
-// 
-// if(count($names)>3){
-//   more-names
-// }else{
-
-// }
