@@ -20,7 +20,7 @@
             echo "This is PHP tag opened inside html<br>";
             echo "added a line";
             ?>
-        </h5>
+        </h2>
 
         <p><h2>Here we can write no of php inside html</h2>
             <?php

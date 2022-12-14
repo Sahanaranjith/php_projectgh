@@ -14,13 +14,13 @@
     <center>
         <h1>Welcome To GFG</h1>
 
-        <h5>
+        <h>
             <?php
             echo "This is PHP code inside html<br>";
             echo "This is PHP tag opened inside html<br>";
             echo "added a line";
             ?>
-        </h5>
+        </h2>
 
         <p><h2>Here we can write no of php inside html</h2>
             <?php
