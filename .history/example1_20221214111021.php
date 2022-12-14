@@ -21,7 +21,7 @@
             ?>
         </h2>
 
-        <p><h2>Here we can write no of php inside html</h2>
+        <p><h2></h2>
             <?php
             echo "Complete <strong>Portal</strong> for Geeks."
             ?>
